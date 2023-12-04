@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634444254970",
+    "project_id": "order-application-27d2a",
+    "storage_bucket": "order-application-27d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634444254970:android:8499c0789fb583d7030343",
+        "android_client_info": {
+          "package_name": "com.example.order_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpcvA5NSSbRiZE38pz8vbhRO0Hk9JxBOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
